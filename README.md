@@ -4,7 +4,7 @@ I am Magdalene James and I am currently a [freelancing Web Developer](https://ww
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-magdalene-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magdalene-james-a31225a8/)](https://www.linkedin.com/in/magdalene-james-a31225a8/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/magdalene-james-12100E?style=flat-square&logo=medium&logoColor=white&link=[https://rashedul-alam.medium.com/](https://medium.com/@magdalene809))]([https://rashedul-alam.medium.com](https://medium.com/@magdalene809)/)
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
